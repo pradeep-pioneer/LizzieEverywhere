@@ -1,0 +1,8 @@
+version: '3'
+services:
+  asr:
+    image: alphacep/kaldi-en:latest
+    restart: always
+    ports:
+      - 2700:2700
+

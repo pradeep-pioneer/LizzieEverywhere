@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <NuspecFile>Lizzie.Bass.Native.nuspec</NuspecFile>
+    <version>1.0.0</version>
+    <authors>Pioneer-Pradeep</authors>
+    <projectUrl>https://github.com/pradeep-pioneer/LizzieEverywhere</projectUrl>
+  </PropertyGroup>
+</Project>
