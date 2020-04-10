@@ -6,6 +6,7 @@
     <description>A nuget package with Bass Native Dependencies</description>
     <authors>Pioneer-Pradeep</authors>
     <projectUrl>https://github.com/pradeep-pioneer/LizzieEverywhere</projectUrl>
+    <repository type="git" url="https://github.com/pradeep-pioneer/LizzieEverywhere" />
     <packageTypes>
       <packageType name="Template" />
     </packageTypes>
